@@ -11,9 +11,9 @@ typedef struct sq
 int main()
 {
 	int m,n=0;
-	printf("ÇëÊäÈëÈËÊı:"); 
+	printf("è¯·è¾“å…¥äººæ•°:"); 
 	scanf("%d", &m);
-	printf("ÇëÊäÈëµÚ¼¸¸öÈËÈÓÏÂÈ¥:");
+	printf("è¯·è¾“å…¥ç¬¬å‡ ä¸ªäººæ‰”ä¸‹å»:");
 	scanf("%d", &n);
 
 	int arr[100]={0};
